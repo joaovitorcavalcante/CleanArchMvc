@@ -1,0 +1,12 @@
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.deps.json
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.dll
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Ioc.dll
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.pdb
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.AssemblyInfo.cs
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.dll
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Ioc.dll
+C:\Users\117310\Workspace\udemy\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.pdb

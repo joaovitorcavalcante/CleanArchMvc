@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jvcbd\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\117310\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
       "projectName": "CleanArchMvc.Domain",
-      "projectPath": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
-      "packagesPath": "C:\\Users\\jvcbd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+      "projectPath": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "packagesPath": "C:\\Users\\117310\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jvcbd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\117310\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMosBLYqdOPVBhqIenMv909fdNdqybPaG9fxy9PevHzjq2td0jvYhblFrjn/sS4T8z9WS0JSj+LX7xzZZzcm3g==",
+  "dgSpecHash": "dm1C9IRaO7NNIUeQSIkl91CACktMAbs0+qVSn2qcxvXf7rk82p0khIi8TX94k9/3mMgmxNRLa+p+H4CZmJyvkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

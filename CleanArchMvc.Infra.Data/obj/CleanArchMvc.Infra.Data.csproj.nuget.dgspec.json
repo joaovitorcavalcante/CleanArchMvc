@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {}
+    "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+    "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\jvcbd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvcbd\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\117310\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\117310\\Workspace\\udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jvcbd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\117310\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
